@@ -69,7 +69,7 @@ Você pode testar os endpoints e visualizar o contrato da API acessando a interf
 Abra outro terminal (mantenha o terminal do backend rodando), navegue até a pasta do frontend e execute os comandos:
 
 ```bash
-cd frontend
+cd front
 npm install
 npm run dev
 ```
